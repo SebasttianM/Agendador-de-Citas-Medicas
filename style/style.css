@@ -1,0 +1,16 @@
+html{
+    min-height: 50%;
+}
+
+body{
+    margin: 15%;
+    padding: 0;
+    margin: 0;
+    background-color: lightseagreen;
+    min-height: 50%;
+    font-size: large;
+}
+
+header{
+    margin-top: 3rem;
+}
